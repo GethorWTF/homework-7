@@ -1,0 +1,23 @@
+.container {
+    width: 200px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.containerDone {
+    width: 200px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+.trash-icon {
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
